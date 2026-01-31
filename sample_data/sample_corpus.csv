@@ -1,0 +1,21 @@
+id;text;category;source
+1;Natural language processing is a subfield of artificial intelligence;tech;wikipedia
+2;Machine learning algorithms can process large amounts of text data;tech;textbook
+3;The quick brown fox jumps over the lazy dog near the forest;literature;example
+4;Python programming language offers excellent libraries for text analysis;tech;documentation
+5;Deep learning models achieve state of the art results in many tasks;tech;research
+6;Content analysis is a research method used in social sciences;research;academic
+7;Linguistic analysis helps understand patterns in written communication;research;journal
+8;Text mining extracts valuable information from unstructured text data;tech;tutorial
+9;Sentiment analysis determines the emotional tone of written content;tech;blog
+10;Corpus linguistics studies language using large collections of texts;research;textbook
+11;Word frequency analysis reveals important themes in text documents;research;manual
+12;The type token ratio measures lexical diversity in written texts;research;academic
+13;Statistical methods help analyze patterns in language data;tech;course
+14;Computational linguistics combines computer science with language study;tech;wikipedia
+15;Discourse analysis examines language use in social contexts;research;journal
+16;Tokenization splits text into individual words or meaningful units;tech;documentation
+17;Lemmatization reduces words to their base or dictionary form;tech;tutorial
+18;Stop words are common words filtered out during text processing;tech;blog
+19;Named entity recognition identifies proper nouns in text;tech;research
+20;Part of speech tagging assigns grammatical categories to words;tech;textbook
